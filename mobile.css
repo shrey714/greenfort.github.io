@@ -1,0 +1,84 @@
+@media (max-width:991px){
+    .contact{
+        padding:50px;
+    }
+    .container{
+        flex-direction: column;
+    }
+    .container .contactInfo{
+        margin-bottom: 40px;
+    }
+    .container .contactInfo,
+    .contactforam{
+        width: 100%;
+    }
+    .makecolumn{
+        flex-direction: column;
+    }
+    .image{
+        margin-left: 0;
+    }
+    .image .main {
+        width: 25vw;
+        height: 25vw;
+        background-size: 31vw;
+    }
+    .brandlabel{
+            display: grid;
+            align-items: center;
+            justify-content: center;
+    }
+    .notify {
+        border-radius: 0.6vw;
+        margin: 3vw 0 0 3.5vw;
+        width: max-content;
+        background: red;
+        padding: 1vw 2vw;
+        font-size: 1.9vw;
+        border: 0.2vw solid black;
+    }
+    .notify:hover {
+        
+    }
+    .container1-about {
+        display: flex;
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+    .title {
+        font-size: 18px;
+    }
+    .according {
+        font-size: 11px;
+    }
+    .review-containt {
+        width: 60%;
+    }
+    .review-image {
+        width: 100px;
+    }
+    h4 {
+        font-size: 13px;
+    }
+    .content span{
+        font-size: 11px !important;
+    }
+    .tag {
+        font-size: 10px;
+    }
+    .name {
+        font-size: 15px;
+    }
+    .table {
+        font-size: 12px;
+    }
+    .table .table-raw {
+        font-size: 12px;
+    }
+
+    
+
+
+
+} 
