@@ -12,6 +12,9 @@
     .contactforam{
         width: 100%;
     }
+    .giveback{
+        display: flow-root;
+    }
     .makecolumn{
         flex-direction: column;
     }
